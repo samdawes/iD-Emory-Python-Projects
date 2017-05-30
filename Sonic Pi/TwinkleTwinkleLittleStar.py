@@ -1,7 +1,4 @@
-#WILL NOT COMPILE WITH NORMAL PYTHON 3
-#COPY/PASTE THE CODE INTO SONIC PI
-
-#IMPORT SONIC PI
+#Copy/Paste this code into Sonic Pi
 
 #"Twinkle twinkle little star"
 play :C
